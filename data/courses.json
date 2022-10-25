@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name" : "course name 1"
+  },
+  {
+    "id": 2,
+    "name" : "course name 2"
+  },
+  {
+    "id": 3,
+    "name" : "course name 3"
+  },
+  {
+    "id": 4,
+    "name" : "course name 4"
+  },
+  {
+    "id": 5,
+    "name" : "course name 5"
+  },
+  {
+    "id": 6,
+    "name" : "course name 6"
+  }
+]
