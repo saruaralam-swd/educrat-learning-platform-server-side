@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "categoryId": 1,
+    "name": "Professional Programming With Python",
+    "img": "https://devskillpublicfiles.s3.ap-southeast-1.amazonaws.com/uploads/websiteimages/coursecontents/ipqduk2ssux.png",
+    "price": "5,600",
+    "type": "Beginner",
+    "body": "Professional Programming With Python- course is for those who want to be job ready or to strengthen their CV. This course provides all the python knowledge that someone needs to apply to real-world applications. After this course, students will have their two personal projects and a complete CV and GitHub contributions, increasing their chances of getting a job earlier. Students, who are willing to learn python for programming contests or projects are also requested to join because this course will help them to have a clear concept of the python programming language",
+    "deadLine": "6 Days Remaining",
+    "enroll": "19 people already registered",
+    "time": "Sun and Tue 09:00 PM - 11:00 PM",
+    "startCourse": "Starts from Nov 06, 2022"
+  }
+]
