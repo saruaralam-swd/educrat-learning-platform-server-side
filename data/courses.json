@@ -1,26 +1,38 @@
 [
   {
     "id": 1,
-    "name" : "course name 1"
+    "categoryId": 1,
+    "name" : "course name 1",
+    "price" : 1212
   },
   {
     "id": 2,
-    "name" : "course name 2"
+    "categoryId": 2,
+    "name" : "course name 2",
+    "price" : 1212
   },
   {
     "id": 3,
-    "name" : "course name 3"
+    "categoryId": 3,
+    "name" : "course name 3",
+    "price" : 1212
   },
   {
     "id": 4,
-    "name" : "course name 4"
+    "categoryId": 4,
+    "name" : "course name 4",
+    "price" : 1212
   },
   {
     "id": 5,
-    "name" : "course name 5"
+    "categoryId": 5,
+    "name" : "course name 5",
+    "price" : 1212
   },
   {
     "id": 6,
-    "name" : "course name 6"
+    "categoryId": 6,
+    "name" : "course name 6",
+    "price" : 1212
   }
 ]
