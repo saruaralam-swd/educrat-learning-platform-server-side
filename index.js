@@ -12,10 +12,12 @@ app.get('/', (req, res) => {
   res.send('server is running');
 });
 
+// for all course
 app.get('/courses', (req, res) => {
   res.send(allCourses);
 });
 
+// for single course
 app.get('/courses/:id', (req, res) => {
   const id = parseInt(req.params.id);
   const details  = allCourses.find(c => c.categoryId === id);
